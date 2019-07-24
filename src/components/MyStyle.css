@@ -1,0 +1,36 @@
+.invalidZip{
+    background-color: red
+}
+
+.userTable{
+    border-collapse: collapse
+}
+
+.userHeader{
+    border: 1px solid #000000
+}
+
+.userCell{
+    text-align: center;
+    border: 1px solid #000000
+}
+
+.userAddress{
+    cursor: pointer
+}
+
+.openSidebar{
+    top: 0;
+    width: 200px;
+    height: 100%;
+    position: absolute;
+    padding-left: 20px;
+    background-color: #ffffff;
+    border-right: 2px solid #ededed
+}
+
+.closeSidebar{
+    width: 10px;
+    margin: 8px;
+    float: right
+}
